@@ -1,0 +1,684 @@
+input="8000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="9000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="10000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="20000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="30000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="40000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="50000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="60000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="70000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="80000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="90000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+input="100000000"
+echo $input > inp
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
+g++ random_point_generator.cpp
+./a.out < inp
+g++ -I$LEDAROOT/incl circle.cpp -c
+g++ -L$LEDAROOT circle.o -lleda -lX11 -lm
+./a.out >> time_taken
